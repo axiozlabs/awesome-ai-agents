@@ -479,8 +479,6 @@ Structured, modular AI agent infrastructure for controllable agent design, routi
 
 <details>
 
-![image](https://raw.githubusercontent.com/axiozlabs/.github/main/assets/axioz-banner.png)
-
 ### Category
 AI Agents, Developer Tools, Infrastructure
 
